@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "name": "Priscilla Brekke",
+      "email": "Margarete_Robel@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mrs. Barbara Ward",
+      "email": "Lawson.Hauck@yahoo.com",
+      "id": 2
+    },
+    {
+      "name": "Van Rau",
+      "email": "Lera_Koch45@yahoo.com",
+      "id": 3
+    },
+    {
+      "name": "Mary Schoen",
+      "email": "Bradford.Mohr45@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Dr. Marc Shields",
+      "email": "Ludwig55@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "Johnathan Considine",
+      "email": "Alejandrin19@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Shawn Mohr",
+      "email": "Oscar_Schulist@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Ronnie Mann DVM",
+      "email": "Delmer.Lemke2@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Mattie Kautzer",
+      "email": "Elmore13@yahoo.com",
+      "id": 9
+    },
+    {
+      "name": "Forrest Abbott",
+      "email": "Sharon16@yahoo.com",
+      "id": 10
+    },
+    {
+      "name": "Mr. Danny Ankunding",
+      "email": "Oren94@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Kelly Breitenberg",
+      "email": "Krystal60@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Herbert Stark",
+      "email": "Santiago_Beer72@hotmail.com",
+      "id": 13
+    }
+  ],
+  "albums": [
+    {
+      "name": "Eduardo Schowalter",
+      "email": "Lucious_Kerluke85@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Reginald Bruen III",
+      "email": "Mackenzie.Nienow@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "Jon Bergstrom",
+      "email": "Tito39@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Christie Schultz",
+      "email": "Joyce_Grady@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Joanne Kihn",
+      "email": "Warren84@yahoo.com",
+      "id": 5
+    },
+    {
+      "name": "Gordon Kuphal",
+      "email": "Danny.Kulas21@hotmail.com",
+      "id": 6
+    }
+  ],
+  "photos": []
+}
