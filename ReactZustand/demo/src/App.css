@@ -1,0 +1,8 @@
+.App {
+  background-color: var(--COLOR_GRAY);
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
